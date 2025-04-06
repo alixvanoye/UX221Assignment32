@@ -22,6 +22,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/sample-product-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
