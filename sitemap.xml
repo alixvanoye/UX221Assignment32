@@ -67,6 +67,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products-category/yoga-props-and-accessories/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-category/meditation-props-and-accessories/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/alixvanoye/
         </loc>
     </url>
