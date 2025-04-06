@@ -37,6 +37,31 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products-2/aromatherapy-essential-oil-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/guided-meditation-journal/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/meditation-cushion-set/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/yoga-wheel-for-stretching-backbends/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products-2/yoga-mat/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
