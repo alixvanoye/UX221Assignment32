@@ -22,42 +22,37 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/
+            http://localhost:8000/products/lotus-incense-holder/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/lotus-incense-holder/
+            http://localhost:8000/products/singing-bowl-set-tibetan/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/singing-bowl-set-tibetan/
+            http://localhost:8000/products/aromatherapy-essential-oil-kit/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/aromatherapy-essential-oil-kit/
+            http://localhost:8000/products/guided-meditation-journal/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/guided-meditation-journal/
+            http://localhost:8000/products/meditation-cushion-set/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/meditation-cushion-set/
+            http://localhost:8000/products/yoga-wheel-for-stretching-backbends/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/products-2/yoga-wheel-for-stretching-backbends/
-        </loc>
-    </url>
-    <url>
-        <loc>
-            http://localhost:8000/products-2/yoga-mat/
+            http://localhost:8000/products/yoga-mat/
         </loc>
     </url>
     <url>
