@@ -72,6 +72,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products-category/relaxation-tools/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/author/alixvanoye/
         </loc>
     </url>
